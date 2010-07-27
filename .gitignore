@@ -1,0 +1,5 @@
+releases
+*.apk
+target
+gen
+bin
